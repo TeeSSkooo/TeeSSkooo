@@ -31,13 +31,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeeSSkooo)
 
 <h2>Contacts</h2>
-<ul>
-  <li>
-    <a href="https://t.me/TeeSSkooo">
-      <img src="https://img.shields.io/badge/Telegram-2CA5E0" alt="Telegram" />
-    </a>
-  </li>
-</ul>
+<a href="https://t.me/TeeSSkooo">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0" alt="Telegram" />
+</a>
+<a href="https://t.me/TeeSSkooo">
+  <img src="[https://img.shields.io/badge/Telegram-2CA5E0](https://img.shields.io/badge/Instagram-%23E4405F)" alt="Instagrem" />
+</a>
+<a href="https://t.me/TeeSSkooo">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0" alt="LinkedIn" />
+</a>
 
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
