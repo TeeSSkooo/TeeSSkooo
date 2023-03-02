@@ -34,13 +34,9 @@
 <a href="https://t.me/TeeSSkooo">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0" alt="Telegram" />
 </a>
-<a href="https://t.me/TeeSSkooo">
+<a href="https://www.instagram.com/catboywhite__/?hl=ru">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F" alt="Instagram" />
 </a>
-<a href="https://t.me/TeeSSkooo">
+<a href="https://www.linkedin.com/in/bogdan-shemigon-97205a262/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5" alt="LinkedIn" />
 </a>
-
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
