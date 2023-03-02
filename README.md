@@ -30,4 +30,4 @@
 
 <h2>Contacts</h2>
 
-* ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [Telegram](https://t.me/TeeSSkooo)
+* ![https://t.me/TeeSSkooo](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [Telegram]()
