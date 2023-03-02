@@ -11,13 +11,10 @@
 
 <h2>My Skills</h2>
 
-<ul>
-  <li>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</li>
-  <li></li>
-  <li></li>
-</ul>
+- React ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 <h2>My Stats</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeeSSkooo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TeeSSkooo)](https://git.io/streak-stats)
