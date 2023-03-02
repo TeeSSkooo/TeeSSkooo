@@ -2,7 +2,7 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 <h3 align="center">Student of National Aerospace University - Kharkiv Aviation Institute 🇺🇦</h3>
-<h3 align="center">Studying *Front-end* development</h3>
+<h3 align="center">Studying _Front-end_ development</h3>
 
 <h2>About Me</h2>
 <p>
