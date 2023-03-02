@@ -23,5 +23,5 @@
 
 <h2>My Stats</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeeSSkooo)]
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TeeSSkooo)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeeSSkooo)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TeeSSkooo)
