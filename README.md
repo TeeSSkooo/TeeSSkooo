@@ -8,7 +8,7 @@
 
 <h2>About Me</h2>
 <p>
-  My name is Jake, I am 19 years old and I am from Kharkiv, Ukraine. At the moment I am a student of the Student of National Aerospace University - Kharkiv Aviation Institute and in addition to studying at the university I am actively studying front-end development
+  My name is Bogdan Shemigon, I am 19 years old and I am from Kharkiv, Ukraine. At the moment I am a student of the Student of National Aerospace University - Kharkiv Aviation Institute and in addition to studying at the university I am actively studying front-end development
 </p>
 
 <h2>My Skills</h2>
